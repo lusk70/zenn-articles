@@ -3,7 +3,7 @@ title: "Streamlitでのファイルアップロード時のエラー解決" # �
 emoji: "🐕" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["streamlit", "python", "エラー解決"] # タグ。["markdown", "rust", "aws"]のように指定する
-published: false # 公開設定（falseにすると下書き）
+published: true # 公開設定（falseにすると下書き）
 ---
 
 こんにちは。らすく([@lusk_eng](<[lusk_eng](https://twitter.com/lusk_eng)>))です。
@@ -21,7 +21,7 @@ AxiosError: Request failed with status code 403
 # 実行環境
 
 - Streamlit: 1.33.0
-- Python: 3.10.5
+- Python: 3.10.10
 - ローカル環境: MacOS
 
 # 解決策
